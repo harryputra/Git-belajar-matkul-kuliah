@@ -1,7 +1,9 @@
 ### **Judul Buku: Jaringan Komputer: Dari Dasar hingga Implementasi**
 
 **Penulis:** M Harry K Saputra
+
 **Target Pembaca:** Mahasiswa TI, Calon Network Administrator, Teknisi Jaringan, dan Peminat Teknologi
+
 **Tingkat:** Pemula hingga Menengah
 
 ---
